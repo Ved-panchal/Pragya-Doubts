@@ -1,3 +1,5 @@
+// import flipkart from "../images/flipkartIcon.jpeg";
+
 function HeroSection() {
   return (
     <main>
@@ -21,14 +23,14 @@ function HeroSection() {
           <div className="shopping">
             <p>Also available on</p>
             <div className="images">
-              <img src="../images/flipkartIcon.jpeg" alt="" />
-              <img src="../images/AmazonIcon.png" alt="" />
+              <img src="/images/flipkartIcon.jpeg" alt="" />
+              <img src="/images/amazonIcon.png" alt="" />
             </div>
           </div>
         </div>
 
         <div className="hero-image">
-          <img src="../images/nikeShoesPhoto.png" alt="" />
+          <img src="/images/nikeShoesPhoto.png" alt="" />
         </div>
       </div>
     </main>
